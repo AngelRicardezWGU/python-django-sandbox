@@ -16,7 +16,5 @@
     "@semantic-release/npm": "^9.0.1",
     "@semantic-release/release-notes-generator": "^10.0.3"
   },
-  "dependencies": {
-  
-  }
+  "dependencies": {}
 }
