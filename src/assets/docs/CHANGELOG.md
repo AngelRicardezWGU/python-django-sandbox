@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.1.1...v1.2.0) (2023-08-01)
+
+
+### Features
+
+* **AGB-2343:** Created a hello text ([5990292](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/599029225409916ad3aa920cdf16204758d54aec))
+
 ## [1.1.1](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.1.0...v1.1.1) (2023-08-01)
 
 # [1.1.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.0.0...v1.1.0) (2023-08-01)
