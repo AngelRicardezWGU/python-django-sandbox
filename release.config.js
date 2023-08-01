@@ -1,9 +1,11 @@
 module.exports = {
   branches: ['main'],
+  repositoryUrl: 'https://github.com/AngelRicardezWGU/python-django-sandbox.git',
   plugins: [
     [
       '@semantic-release/commit-analyzer',
       {
+        preset: 'angular',
         releaseRules: [
           { type: 'refactor', release: 'patch' },
           { type: 'revert', release: 'patch' },
@@ -35,5 +37,6 @@ module.exports = {
           'chore(release): Releasing Version: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
     ],
-  ]
+  ],
+  preset: 'angular',
 };
