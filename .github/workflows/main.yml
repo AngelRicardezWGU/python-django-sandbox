@@ -1,7 +1,7 @@
 name: Manual Semantic Release Action
 on:
   workflow_dispatch:
-  
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -20,8 +20,14 @@ jobs:
       - name: Semantic Release bot 🤖
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: npm ci --legacy-peer-deps && npx semantic-release
+        run: npm ci && npx semantic-release
 
       - name: Get Previous tag 🏷️
         id: latestTag
         uses: WyriHaximus/github-action-get-previous-tag@v1
+
+      - name: 🚀 Cut Release 🚀
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ steps.latestTag.outputs.tag != steps.beforeSemanticReleaseTag.outputs.tag}}
+        run: gh workflow run release.yml --ref ${{ steps.latestTag.outputs.tag }}
