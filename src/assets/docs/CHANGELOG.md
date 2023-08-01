@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.2.0...v1.2.1) (2023-08-01)
+
+
+### Bug Fixes
+
+* **AGB-1232:** the text was fixed. ([#2](https://github.com/AngelRicardezWGU/python-django-sandbox/issues/2)) ([013acb8](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/013acb8ea346ddc45cb8beeeb9b98876282c0c90))
+
 # [1.2.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.1.1...v1.2.0) (2023-08-01)
 
 
