@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.3.0...v1.4.0) (2023-08-02)
+
+
+### Features
+
+* dude trying hard ([#4](https://github.com/AngelRicardezWGU/python-django-sandbox/issues/4)) ([4d78987](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/4d78987d308128256508dfda345f1d8f32d61076))
+
 # [1.3.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.2.1...v1.3.0) (2023-08-02)
 
 
