@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.5.0...v1.6.0) (2023-08-02)
+
+
+### Features
+
+* ajlsdlkajsdaslkjd ([#6](https://github.com/AngelRicardezWGU/python-django-sandbox/issues/6)) ([8582e5e](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/8582e5ed3f59488a21f4ca46d1ba434ec02c99f6))
+
 # [1.5.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.4.0...v1.5.0) (2023-08-02)
 
 
