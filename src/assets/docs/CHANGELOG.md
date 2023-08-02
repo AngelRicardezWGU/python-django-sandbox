@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.6.0...v1.7.0) (2023-08-02)
+
+
+### Features
+
+* rocking ([1520933](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/152093336c63b6c3f4595cb48c272efab4447916))
+
 # [1.6.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.5.0...v1.6.0) (2023-08-02)
 
 
