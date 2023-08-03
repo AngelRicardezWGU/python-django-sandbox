@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.7.0...v1.8.0) (2023-08-03)
+
+
+### Features
+
+* **AGB-2323:** ASDASDASDSAD ([ed25de7](https://github.com/AngelRicardezWGU/python-django-sandbox/commit/ed25de7cf58161e129d8ba9e885fec7cf4cabf89))
+
 # [1.7.0](https://github.com/AngelRicardezWGU/python-django-sandbox/compare/v1.6.0...v1.7.0) (2023-08-02)
 
 
